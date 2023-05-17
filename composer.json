@@ -1,0 +1,16 @@
+{
+    "name": "iarrowned/hamming",
+    "description": "Hamming code",
+    "autoload": {
+        "psr-4": {
+            "Main\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill",
+            "email": "14krabik14@gmail.com"
+        }
+    ],
+    "require": {}
+}
